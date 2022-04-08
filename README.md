@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShibeFaceSkrill
+- 👋 Hi, I’m ShibeFace
 - 👀 I’m interested in bringing the faces of doges to the world
 - 🌱 I’m currently implementing full-stack NFT mint essantials
 - 💞️ I’m looking to collaborate on fun NFT micro-launches with novel financial utilities
