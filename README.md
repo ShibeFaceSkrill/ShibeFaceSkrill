@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ShibeFace
-- 👀 I’m interested in bringing the faces of doges to the world
+- 👀 I’m interested in web3 and sharing art made from faces of shiba inu
 - 🌱 I’m currently implementing full-stack NFT mint essantials
-- 💞️ I’m looking to collaborate on fun NFT micro-launches with novel financial utilities
+- 💞️ I’m looking to collaborate on fun micro-launches with novel financial utilities
 - 📝 Contact me via:
   - 📫 Email: shibefaceskrill at gmail dot com
   - 🐦 Twitter: [@ShibeFaceSkrill](https://twitter.com/ShibeFaceSkrill)
