@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ShibeFace
-- 👀 I’m interested in web3 and sharing art made from faces of shiba inu
+- 👋 Hi, I’m ShibeFace (FACED)
+- 👀 I’m interested in web3 and sharing art made from faces of Shiba Inu
 - 🌱 I’m currently implementing full-stack NFT mint essantials
 - 💞️ I’m looking to collaborate on fun micro-launches with novel financial utilities
-- 📝 Contact me via:
+- 📝 Contact \ Social:
   - 📫 **Email**: shibefaceskrill at gmail dot com
   - 🐦 **Twitter**: [@ShibeFaceSkrill](https://twitter.com/ShibeFaceSkrill)
   - 🕹️ **Discord _Direct_**: ShibeFace#9498  
