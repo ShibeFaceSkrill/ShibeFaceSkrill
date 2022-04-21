@@ -1,11 +1,13 @@
-- 👋 Hi, I’m ShibeFace (FACED)
+- 👋 Hi, I’m ShibeFace (YourVeryShibe), founder of ShibeFaceSkrill
 - 👀 I’m interested in web3 and sharing art made from faces of Shiba Inu
-- 🌱 I’m currently implementing full-stack NFT mint essantials
+- 🌱 I’m currently implementing full-stack NFT essantials
 - 💞️ I’m looking to collaborate on fun micro-launches with novel financial utilities
 - 📝 Contact \ Social:
   - 📫 **Email**: shibefaceskrill at gmail dot com
-  - 🐦 **Twitter**: [@ShibeFaceSkrill](https://twitter.com/ShibeFaceSkrill)
-  - 🕹️ **Discord _Direct_**: ShibeFace#9498  
+  - 🐦 **Twitter**:
+    -  Project: [@ShibeFaceSkrill](https://twitter.com/ShibeFaceSkrill)
+    -  Personal: [@YourVeryShibe](https://twitter.com/YourVeryShibe)
+  - 🕹️ **Discord _Direct_**: ShibeFace#2755  
   - 🎮 **Discord _Server_**: https://discord.gg/G2gsYkg6VS
   - 📚 **Documentation**: https://shibeface.githbook.io/skrill
   - 🐕 **Dogecoin**: DDyStuBkpksTiFbq4dSYqRGkrQAkYm9XGn
