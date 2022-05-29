@@ -9,10 +9,12 @@
     -  Personal: [@YourVeryShibe](https://twitter.com/YourVeryShibe)
   - 🕹️ **Discord _Direct_**: ShibeFace#2755  
   - 🎮 **Discord _Server_**: https://discord.gg/G2gsYkg6VS
-  - 📚 **Documentation**: https://shibeface.githbook.io/skrill
+  - 🎉 **Dogeparty Blog**: https://shibeface.finance/dogeparty/
+  - 🏦 **Dogeparty Assets**: https://dogeparty.xchain.io/address/DH1293j9GQeDwuKBJkDpdWRX5YGEWw2JBY
   - 🐕 **Dogecoin**: DDyStuBkpksTiFbq4dSYqRGkrQAkYm9XGn
   - 💎 **Ethereum**: 0xB21E8330095550D7A267DD421494dd02ce284C26
-
+  - 📚 **Documentation**: https://docs.shibeface.finance/
+  - 💬 **Telegram**: https://t.me/ShibeFaceSkrill
 <!---
 shibefaceskrill/shibefaceskrill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
