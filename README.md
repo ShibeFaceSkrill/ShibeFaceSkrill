@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/95756707/170851694-2420fd49-bb9e-445b-81bb-299e35a92a6c.png)
+<img src="https://user-images.githubusercontent.com/95756707/170851694-2420fd49-bb9e-445b-81bb-299e35a92a6c.png" width=50% height=50%>
+
 > You can prepare all you want, but if you never roll the dice you'll never be successful. -- Shia LaBeouf
 - 👋 Hi, I’m YourVeryShibe, founder of ShibeFaceSkrill
 - 👀 I’m interested in web3 and sharing art made from faces of Shiba Inu
