@@ -3,7 +3,7 @@
 > You can prepare all you want, but if you never roll the dice you'll never be successful. -- Shia LaBeouf
 - 👋 Hi, I’m YourVeryShibe, founder of ShibeFaceSkrill
 - 👀 I’m interested in web3 and sharing art made from faces of Shiba Inu
-- 🌱 I’m currently implementing full-stack NFT essantials
+- 🌱 I’m currently implementing full-stack NFT essentials
 - 💞️ I’m looking to collaborate on fun micro-launches with novel financial utilities
 - 📝 Contact \ Social:
   - 📫 **Email**: shibefaceskrill at gmail dot com
